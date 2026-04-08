@@ -4,7 +4,7 @@
 <!--                  ANIMATED HEADER                   -->
 <!-- ═══════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:00FF41&height=250&section=header&text=Kaustubh%20Shukla&fontSize=62&fontColor=00FF41&fontAlignY=40&desc=Full-Stack%20Dev%20%E2%80%A2%20ML%20Hacker%20%E2%80%A2%20Perpetual%20Learner&descSize=17&descColor=4dff4d&descAlignY=60&animation=fadeIn&stroke=00FF41&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,70:003300,100:00FF41&height=250&section=header&text=Kaustubh%20Shukla&fontSize=62&fontColor=00FF41&fontAlignY=40&desc=Full-Stack%20Dev%20%E2%80%A2%20Perpetual%20Learner&descSize=17&descColor=4dff4d&descAlignY=60&animation=fadeIn&stroke=00FF41&strokeWidth=1" />
 
 <br/>
 
