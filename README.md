@@ -21,9 +21,9 @@
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="6">
-<tr><td colspan="2" align="center"><code>kaustubh@lpu</code></td></tr>
+<tr><td colspan="2" align="center"><code>kaustubhshukla@lpu</code></td></tr>
 <tr><td colspan="2" align="center"><code>──────────────────────────────────────────</code></td></tr>
-<tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Ludhiana 🇮🇳</code></td></tr>
+<tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Jalandhar 🇮🇳</code></td></tr>
 <tr><td align="right"><code>Status</code></td><td><code>building stuff &amp; occasionally sleeping</code></td></tr>
 <tr><td align="right"><code>Building</code></td><td><code>HR SaaS — attendance, leaves, full-stack</code></td></tr>
 <tr><td align="right"><code>Learning</code></td><td><code>C++ · DSA · Web Security · System Design</code></td></tr>
