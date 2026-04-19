@@ -21,9 +21,9 @@
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="6">
-<tr><td colspan="2" align="center"><code>kaustubh@lpu</code></td></tr>
+<tr><td colspan="2" align="center"><code>kaustubhshukla@lpu</code></td></tr>
 <tr><td colspan="2" align="center"><code>──────────────────────────────────────────</code></td></tr>
-<tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Ludhiana 🇮🇳</code></td></tr>
+<tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Jalandhar 🇮🇳</code></td></tr>
 <tr><td align="right"><code>Status</code></td><td><code>building stuff &amp; occasionally sleeping</code></td></tr>
 <tr><td align="right"><code>Building</code></td><td><code>HR SaaS — attendance, leaves, full-stack</code></td></tr>
 <tr><td align="right"><code>Learning</code></td><td><code>C++ · DSA · Web Security · System Design</code></td></tr>
@@ -64,23 +64,32 @@
 
 <div align="center">
 
-<a href="https://github.com/kaustubhshukla9586/Pathified">
-  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=Pathified&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/kaustubhshukla9586/TerraSense">
-  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=TerraSense&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/kaustubhshukla9586/IronForge">
-  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=IronForge&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/kaustubhshukla9586/lpu-wifi-extension">
-  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=lpu-wifi-extension&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kaustubhshukla9586/Pathified">
+        <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=Pathified&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kaustubhshukla9586/TerraSense">
+        <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=TerraSense&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kaustubhshukla9586/IronForge">
+        <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=IronForge&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kaustubhshukla9586/lpu-wifi-extension">
+        <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=lpu-wifi-extension&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
