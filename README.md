@@ -21,9 +21,9 @@
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="6">
-<tr><td colspan="2" align="center"><code>kaustubhshukla@lpu</code></td></tr>
+<tr><td colspan="2" align="center"><code>kaustubh@lpu</code></td></tr>
 <tr><td colspan="2" align="center"><code>──────────────────────────────────────────</code></td></tr>
-<tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Jalandhar 🇮🇳</code></td></tr>
+<tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Ludhiana 🇮🇳</code></td></tr>
 <tr><td align="right"><code>Status</code></td><td><code>building stuff &amp; occasionally sleeping</code></td></tr>
 <tr><td align="right"><code>Building</code></td><td><code>HR SaaS — attendance, leaves, full-stack</code></td></tr>
 <tr><td align="right"><code>Learning</code></td><td><code>C++ · DSA · Web Security · System Design</code></td></tr>
@@ -72,6 +72,16 @@
   <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=TerraSense&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
 </a>
 
+<br/><br/>
+
+<a href="https://github.com/kaustubhshukla9586/IronForge">
+  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=IronForge&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kaustubhshukla9586/lpu-wifi-extension">
+  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=lpu-wifi-extension&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+</a>
+
 </div>
 
 <br/>
@@ -82,6 +92,8 @@
 |---|---|
 | **Pathified** | AI career guidance — 25-question adaptive quiz, Groq API recommendations. Deployed. |
 | **TerraSense** | NIR spectroscopy soil analysis — N, P, K, pH, moisture prediction via PLSRegression + FastAPI |
+| **IronForge** | Gym landing page — React, Tailwind, Framer Motion, cinematic scroll animations |
+| **lpu-wifi-extension** | Browser extension for LPU wifi — 6 stars, actually used by people |
 | **HR SaaS** *(in progress)* | Multi-tenant attendance + leave management. Replacing Excel, one org at a time. |
 
 </div>
