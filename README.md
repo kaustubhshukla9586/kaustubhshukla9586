@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- REPLACE THIS IMG SRC WITH YOUR BANNER ONCE YOU HAVE IT -->
 <img width="100%" src="https://raw.githubusercontent.com/kaustubhshukla9586/kaustubhshukla9586/main/banner.png" alt="Kaustubh Shukla"/>
 
 <br/>
@@ -21,30 +20,17 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
-
 ```
-  who     →  Kaustubh Shukla
-  where   →  LPU, Ludhiana 🇮🇳
-  degree  →  BTech CSE (AI/ML)
-  status  →  building stuff & occasionally sleeping
+kaustubh@lpu
+─────────────────────────────────────────────────────
+  OS         BTech CSE (AI/ML) @ LPU, Ludhiana 🇮🇳
+  Status     building stuff & occasionally sleeping
+  Building   HR SaaS — attendance, leaves, full-stack
+  Learning   C++ · DSA · Web Security · System Design
+  Open to    collabs · open-source · frontend work
+  Docs       I write them. I don't read them.
+─────────────────────────────────────────────────────
 ```
-
-</td>
-<td width="50%" valign="top">
-
-```
-  building  →  HR SaaS (full-stack, from scratch)
-  learning  →  C++ · DSA · Web Security · Systems
-  open to   →  collabs, open-source, frontend work
-  docs      →  yes I write them. no I don't read them
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -79,18 +65,36 @@
 <div align="center">
 
 <a href="https://github.com/kaustubhshukla9586/Pathified">
-  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=Pathified&theme=tokyonight&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=Pathified&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kaustubhshukla9586/TerraSense">
-  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=TerraSense&theme=tokyonight&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+  <img height="140px" src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=TerraSense&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Project | What it does |
+|---|---|
+| **Pathified** | AI career guidance — 25-question adaptive quiz, Groq API recommendations. Deployed. |
+| **TerraSense** | NIR spectroscopy soil analysis — N, P, K, pH, moisture prediction via PLSRegression + FastAPI |
+| **HR SaaS** *(in progress)* | Multi-tenant attendance + leave management. Replacing Excel, one org at a time. |
 
 </div>
 
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustubhshukla9586&theme=react-dark&hide_border=true&bg_color=111827&color=22d3ee&line=22d3ee&point=e2e8f0&area=true&area_color=22d3ee)](https://github.com/kaustubhshukla9586)
+
+</div>
 
 <div align="center">
 
@@ -115,13 +119,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaustubhshukla9586/kaustubhshukla9586/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/kaustubhshukla9586/kaustubhshukla9586/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0f2032,100:111827&height=100&section=footer&animation=fadeIn"/>
 
 </div>
