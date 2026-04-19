@@ -20,17 +20,17 @@
 
 <div align="center">
 
-```
-kaustubh@lpu
-─────────────────────────────────────────────────────
-  OS         BTech CSE (AI/ML) @ LPU, Ludhiana 🇮🇳
-  Status     building stuff & occasionally sleeping
-  Building   HR SaaS — attendance, leaves, full-stack
-  Learning   C++ · DSA · Web Security · System Design
-  Open to    collabs · open-source · frontend work
-  Docs       I write them. I don't read them.
-─────────────────────────────────────────────────────
-```
+<table border="0" cellspacing="0" cellpadding="6">
+<tr><td colspan="2" align="center"><code>kaustubh@lpu</code></td></tr>
+<tr><td colspan="2" align="center"><code>──────────────────────────────────────────</code></td></tr>
+<tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Ludhiana 🇮🇳</code></td></tr>
+<tr><td align="right"><code>Status</code></td><td><code>building stuff &amp; occasionally sleeping</code></td></tr>
+<tr><td align="right"><code>Building</code></td><td><code>HR SaaS — attendance, leaves, full-stack</code></td></tr>
+<tr><td align="right"><code>Learning</code></td><td><code>C++ · DSA · Web Security · System Design</code></td></tr>
+<tr><td align="right"><code>Open to</code></td><td><code>collabs · open-source · frontend work</code></td></tr>
+<tr><td align="right"><code>Docs</code></td><td><code>I write them. I don't read them.</code></td></tr>
+<tr><td colspan="2" align="center"><code>──────────────────────────────────────────</code></td></tr>
+</table>
 
 </div>
 
