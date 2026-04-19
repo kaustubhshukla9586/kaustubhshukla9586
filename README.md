@@ -210,51 +210,13 @@
 
 ## 🐍 &nbsp;Contribution Snake
 
-<!-- 
-  TO ACTIVATE THE SNAKE:
-  1. Go to your repo: kaustubhshukla9586/kaustubhshukla9586
-  2. Create folder: .github/workflows/
-  3. Add file: snake.yml with the content below
-  4. Push and run the action manually once
-
-  ── snake.yml content ──────────────────────────────────────
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: kaustubhshukla9586
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ────────────────────────────────────────────────────────────
-
-  Then uncomment the img tag below:
--->
-
 <div align="center">
 
-<!-- Uncomment after setting up snake action:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaustubhshukla9586/kaustubhshukla9586/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaustubhshukla9586/kaustubhshukla9586/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaustubhshukla9586/kaustubhshukla9586/output/github-contribution-grid-snake.svg">
 </picture>
--->
-
-*🐍 Contribution snake coming soon — see setup instructions above*
 
 </div>
 
