@@ -126,10 +126,12 @@
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kaustubhshukla9586&hide_border=true&background=111827&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=4b5563&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=22d3ee)](https://github.com/kaustubhshukla9586)
+<!--
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kaustubhshukla9586&hide_border=true&background=111827&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=4b5563&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=22d3ee)](https://github.com/kaustubhshukla9586) 
+-->
 
 </div>
+
 
 ---
 
