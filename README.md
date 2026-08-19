@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&height=36&lines=building+an+HR+SaaS+nobody+asked+for+but+everyone+needs;currently+learning+C%2B%2B+%E2%80%94+it%27s+going+okay+I+think;ships+it.+breaks+it.+googles+the+error.+repeats.;also+lifts+things.+completely+unrelated+to+any+of+this.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&height=36&lines=grinding+DSA+in+C%2B%2B+%E2%80%94+arrays+today%2C+existential+crisis+tomorrow;currently+learning+C%2B%2B+%E2%80%94+it%27s+going+okay+I+think;ships+it.+breaks+it.+googles+the+error.+repeats.;also+lifts+things.+completely+unrelated+to+any+of+this.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,8 +24,7 @@
 <tr><td colspan="2" align="center"><code>kaustubhshukla@lpu</code></td></tr>
 <tr><td colspan="2" align="center"><code>──────────────────────────────────────────</code></td></tr>
 <tr><td align="right"><code>OS</code></td><td><code>BTech CSE (AI/ML) @ LPU, Jalandhar 🇮🇳</code></td></tr>
-<tr><td align="right"><code>Status</code></td><td><code>building stuff &amp; occasionally sleeping</code></td></tr>
-<tr><td align="right"><code>Building</code></td><td><code>HR SaaS — attendance, leaves, full-stack</code></td></tr>
+<tr><td align="right"><code>Status</code></td><td><code>grinding DSA &amp; occasionally sleeping</code></td></tr>
 <tr><td align="right"><code>Learning</code></td><td><code>C++ · DSA · Web Security · System Design</code></td></tr>
 <tr><td align="right"><code>Open to</code></td><td><code>collabs · open-source · frontend work</code></td></tr>
 <tr><td align="right"><code>Docs</code></td><td><code>I write them. I don't read them.</code></td></tr>
@@ -67,6 +66,11 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/kaustubhshukla9586/lpu-wifi-extension">
+        <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=lpu-wifi-extension&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/kaustubhshukla9586/Pathified">
         <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=Pathified&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
       </a>
@@ -74,18 +78,6 @@
     <td>
       <a href="https://github.com/kaustubhshukla9586/TerraSense">
         <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=TerraSense&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/kaustubhshukla9586/IronForge">
-        <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=IronForge&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/kaustubhshukla9586/lpu-wifi-extension">
-        <img src="https://github-readme-stats-hazel-eight-74.vercel.app/api/pin/?username=kaustubhshukla9586&repo=lpu-wifi-extension&hide_border=true&bg_color=111827&title_color=22d3ee&icon_color=22d3ee&text_color=94a3b8&border_radius=10"/>
       </a>
     </td>
   </tr>
@@ -99,11 +91,9 @@
 
 | Project | What it does |
 |---|---|
-| **Pathified** | AI career guidance — 25-question adaptive quiz, Groq API recommendations. Deployed. |
-| **TerraSense** | NIR spectroscopy soil analysis — N, P, K, pH, moisture prediction via PLSRegression + FastAPI |
-| **IronForge** | Gym landing page — React, Tailwind, Framer Motion, cinematic scroll animations |
 | **lpu-wifi-extension** | Browser extension for LPU wifi — 6 stars, actually used by people |
-| **HR SaaS** *(in progress)* | Multi-tenant attendance + leave management. Replacing Excel, one org at a time. |
+| **Pathified** | AI career guidance — 25-question adaptive quiz, Groq API recommendations. Deployed. |
+| **TerraSense** | Hackathon side project — NIR spectroscopy soil analysis, N/P/K/pH/moisture via PLSRegression + FastAPI |
 
 </div>
 
